@@ -1,7 +1,6 @@
 This project is quite old now, and nowhere undetected. The project itself is pretty messy coded.
 #### Heres a list of features that this external features:
-#### I DON'T HELP SO DONT ASK ME
-#### DISCORD : https://discord.gg/wQuaXHGD
+#### NOT UPDATE
 
 - Aimbot:
 - Enable
